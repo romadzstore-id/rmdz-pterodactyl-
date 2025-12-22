@@ -1,7 +1,7 @@
 const CONFIG = {
     // Pengaturan Profil
     profile: {
-        image: "logo.jpg", // Pastikan file ada, atau ganti URL gambar online
+        image: "https://files.catbox.moe/8pec8d.jpg", // Pastikan file ada, atau ganti URL gambar online
         name: "ROMADZ STORE",
         verified: true
     },
