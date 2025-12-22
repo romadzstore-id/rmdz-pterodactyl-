@@ -12,8 +12,8 @@ const CONFIG = {
             subtitle: "Solusi Digital Premium & Terpercaya",
             footer: "Copyright © 2025 Romadz Store. All Rights Reserved.",
             sections: {
-                contact: "Kontak Resmi",
-                market: "Grup Marketplace (Bebas)",
+                contact: "Kontak Admin",
+                market: "Grup Marketplace (Buka)",
                 stock: "Info Stok & Update",
                 testi: "Bukti Transaksi"
             }
@@ -23,7 +23,7 @@ const CONFIG = {
             footer: "Copyright © 2025 Romadz Store. All Rights Reserved.",
             sections: {
                 contact: "Official Contacts",
-                market: "Marketplace Groups (Free)",
+                market: "Marketplace Groups (Open)",
                 stock: "Stock & Updates",
                 testi: "Testimonials"
             }
@@ -34,16 +34,16 @@ const CONFIG = {
     links: [
         // Kontak
         {
-            title_id: "WhatsApp Admin",
-            title_en: "WhatsApp Admin",
+            title_id: "WhatsApp",
+            title_en: "WhatsApp",
             url: "https://wa.me/6283171889474",
             icon: "fa-brands fa-whatsapp",
             category: "contact",
             color: "#25D366" // WA Color
         },
         {
-            title_id: "Telegram Admin",
-            title_en: "Telegram Admin",
+            title_id: "Telegram",
+            title_en: "Telegram",
             url: "https://t.me/rmddz",
             icon: "fa-brands fa-telegram",
             category: "contact",
