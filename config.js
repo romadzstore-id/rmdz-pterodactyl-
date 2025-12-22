@@ -1,7 +1,7 @@
 const CONFIG = {
     // Pengaturan Profil
     profile: {
-        image: "/logo.jpg", // Pastikan file ada, atau ganti URL gambar online
+        image: "logo.jpg", // Pastikan file ada, atau ganti URL gambar online
         name: "ROMADZ STORE",
         verified: true
     },
