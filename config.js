@@ -9,7 +9,7 @@ const CONFIG = {
     // Pengaturan Bahasa (ID & EN)
     texts: {
         id: {
-            subtitle: "Solusi Digital Premium & Terpercaya",
+            subtitle: "Anda Puas • Kami Senang",
             footer: "Copyright © 2025 Romadz Store. All Rights Reserved.",
             sections: {
                 contact: "Kontak Admin",
@@ -19,7 +19,7 @@ const CONFIG = {
             }
         },
         en: {
-            subtitle: "Premium & Trusted Digital Solutions",
+            subtitle: "You are satisfied • We are happy",
             footer: "Copyright © 2025 Romadz Store. All Rights Reserved.",
             sections: {
                 contact: "Official Contacts",
